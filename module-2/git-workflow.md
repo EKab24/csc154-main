@@ -17,3 +17,6 @@ Using **your own branch**, add an entry beneath the example containing:
 ## Student Entries
 
 Add your entry below this line.
+Emmanuel
+Emmanuel-moduel2
+A Git commit records a specific saved set of changes in repository's history 
